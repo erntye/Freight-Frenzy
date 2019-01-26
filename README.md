@@ -21,16 +21,18 @@ Initially, the player controls a delivery truck driving around in the port.  The
   <img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules1.png" width="300" alt="Game Road with 3 Lanes"/>
 </p>
 
-<p align="center">Game Road with 3 Lanes<p align="center">
+<p align="center"><b>Game Road with 3 Lanes </b><p align="center">
 
 
 The controls are simple! Swipe left to move one lane to the left, and swipe right to move one lane to the right. Swiping up allows one to speed up and swiping downwards will brake and slow the vehicle down. 
 
 To turn around corners, keep to the innermost lanes at the bends (leftmost lane for left turn, and rightmost lane for right turn).
 
-<img align="center" src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules2.png" width="300"> 
+<p align="center">
+  <img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules2.png" width="300" alt="Keep to the Innermost Lane to Turn at Bends"/>
+</p>
 
-__Keep to the innermost lane to turn at bends__
+<p align="center"><b>Keep to the Innermost Lane to Turn at Bends </b><p align="center">
 
 There are 2 avenues for gaining points. 
 - The player gains points passively as long as he survives
@@ -38,19 +40,26 @@ There are 2 avenues for gaining points.
 
 The player can *collect* containers by controlling his speed and timing the vehicle to coincide with cranes which lower and raise on the *rightmost* lane.  The player then *delivers* them by doing the same for cranes at the unloading bays on the *leftmost* lane. (Picture Below)
 
-<img align="center" src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules3.png" width="300">
+<p align="center">
+  <img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules3.png" width="300" alt="Unloading Bay on the Left Lane"/>
+</p>
 
-__Unloading Bay on the Left Lane__
+<p align="center"><b>Unloading Bay on the Left Lane </b><p align="center">
+  
+<p align="center">
+  <img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules4.png" width="300" alt="Loading Bay on the Right Lane"/>
+</p>
 
-<img align="center" src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules4.png" width="300"> 
+<p align="center"><b>Loading Bay on the Right Lane </b><p align="center">
 
-__Loading Bay on the Right Lane__
 
 For each container that the player successfully delivers, the Combo Bar fills up a quarter. When the Combo Bar is full, the player then transfers to a Freighter to deliver the cargo to another port. The player has to be quick though as the combo bar decreases steadily over time.
 
-<img align="center" src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules5.png" width="300"> 
+<p align="center">
+  <img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules5.png" width="300" alt="Freight Frenzy Mode"/>
+</p>
 
-__Freight Frenzy Mode__
+<p align="center"><b>Freight Frenzy Mode </b><p align="center">
 
 Once the Freighter docks successfully, the player continues picking up and delivering containers in the truck until he manages to fill up the combo bar again. 
 
@@ -121,6 +130,3 @@ Throughout the game, the player has to avoid obstacles and road hazards and can 
 
 - This upgrade increases the frequency of powerups appearing in the game.
 
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
