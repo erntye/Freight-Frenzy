@@ -11,13 +11,18 @@
 - The app should install on your phone and be ready to play within seconds
 
 ## Rules of the Game
+> Note: There is an in-game tutorial mode which is activated on the first playthrough and can be accessed anytime from the Settings menu
+
 Freight Frenzy is an endless game where the aim is to gain as many points as possible before losing all your lives!
 
 Initially, the player controls a delivery truck driving around in the port.  There are 3 possible lanes: left, right, and centre. 
 
-<img align="center" src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules1.png" width="300"> 
+<p align="center">
+  <img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Rules1.png" width="300" alt="Game Road with 3 Lanes"/>
+</p>
 
-__Game Road with 3 Lanes__
+<p align="center">Game Road with 3 Lanes<p align="center">
+
 
 The controls are simple! Swipe left to move one lane to the left, and swipe right to move one lane to the right. Swiping up allows one to speed up and swiping downwards will brake and slow the vehicle down. 
 
@@ -115,3 +120,7 @@ Throughout the game, the player has to avoid obstacles and road hazards and can 
 <img align="center" src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Power8.png" width="400">
 
 - This upgrade increases the frequency of powerups appearing in the game.
+
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
