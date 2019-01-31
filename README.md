@@ -3,12 +3,17 @@
 
 **By Team Pallalel (NTU)**
 
+## Introductory Video
+
+<a href="https://www.dropbox.com/s/661j8i7mca1xrxt/Freight%20Frenzy%20Game%20Trailer%20%28Team%20Pallalel%29.mp4?dl=0"><img src="https://github.com/erntye/Freight-Frenzy/blob/master/Pallalel/WikiImages/Freight-Frenzy.PNG" /></a>
+
 ## Installation Guide
 - Navigate to Settings > Security on your phone
 - Check the option Unknown sources
 - Tap OK on the prompt message
 - Download the .apk file from the dropbox onto your phone and open it
 - The app should install on your phone and be ready to play within seconds
+
 
 ## Rules of the Game
 > Note: There is an in-game tutorial mode which is activated on the first playthrough and can be accessed anytime from the Settings menu
